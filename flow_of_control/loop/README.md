@@ -1,6 +1,6 @@
 # Loop Folder
 
-This folder dives into Rust loop constructs, including plain loops, labels, nesting, and returning values from loops.
+Explores Rust loop constructs, including plain loops, labels, nesting, and returning values from loops.
 
 ## Files
 
@@ -13,7 +13,7 @@ This folder dives into Rust loop constructs, including plain loops, labels, nest
 
 ## How it works
 
-Rust loops are expressions too, meaning they can yield values. This folder explains the mechanics of infinite loops, labeled control flow, and how to use `break` with data.
+Rust loops are expressions too, meaning they can yield values. Explains the mechanics of infinite loops, labeled control flow, and how to use `break` with data.
 
 Key concepts:
 

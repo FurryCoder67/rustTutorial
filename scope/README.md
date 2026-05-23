@@ -18,7 +18,7 @@ Key ideas:
 
 ## Learning outcomes
 
-This folder teaches:
+Teaches:
 
 - How scope affects variable lifetime.
 - How nested blocks create new scopes.

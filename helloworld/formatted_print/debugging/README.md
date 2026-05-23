@@ -1,6 +1,6 @@
 # Debugging Folder
 
-This folder contains examples of Rust's debugging formatting capabilities.
+Contains examples of Rust's debugging formatting capabilities.
 
 ## Files
 
@@ -23,7 +23,7 @@ Key points:
 
 ## Learning outcomes
 
-This folder teaches:
+Teaches:
 
 - How to use debug formatting for inspection.
 - How to derive `Debug` on structs and enums.

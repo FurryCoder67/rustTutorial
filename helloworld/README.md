@@ -1,6 +1,6 @@
 # Hello World Folder
 
-This folder contains the very first Rust examples: comments, printing, formatting, and debugging. It is designed to teach the foundations of Rust syntax and output.
+Contains the very first Rust examples: comments, printing, formatting, and debugging. It is designed to teach the foundations of Rust syntax and output.
 
 ## Files
 
@@ -13,7 +13,7 @@ This folder contains the very first Rust examples: comments, printing, formattin
 
 ## How it works
 
-This folder is the introduction to Rust syntax. It shows how macros like `println!` and `format!` are built into Rust for output formatting, and how Rust uses braces and format traits to control how values are printed.
+Introduces Rust syntax. It shows how macros like `println!` and `format!` are built into Rust for output formatting, and how Rust uses braces and format traits to control how values are printed.
 
 Key ideas:
 

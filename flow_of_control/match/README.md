@@ -1,6 +1,6 @@
 # Match Folder
 
-This folder is focused on Rust's `match` expression and related pattern-matching constructs.
+Focuses on Rust's `match` expression and related pattern-matching constructs.
 
 ## Files
 

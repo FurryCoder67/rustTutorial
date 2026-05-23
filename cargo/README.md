@@ -1,6 +1,6 @@
 # Cargo Folder
 
-This folder explains how Rust projects are built, tested, and organized using Cargo, Rust's package manager and build tool.
+Explains how Rust projects are built, tested, and organized using Cargo, Rust's package manager and build tool.
 
 ## Files
 

@@ -1,6 +1,6 @@
 # Formatted Print Folder
 
-This folder teaches Rust's formatting macros, debug output, and custom display behavior.
+Teaches Rust's formatting macros, debug output, and custom display behavior.
 
 ## Files
 

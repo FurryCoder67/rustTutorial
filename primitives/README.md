@@ -1,6 +1,6 @@
 # Primitives Folder
 
-This folder introduces Rust primitive compound types: arrays, slices, tuples, and literal values.
+Introduces Rust primitive compound types: arrays, slices, tuples, and literal values.
 
 ## Files
 
@@ -13,7 +13,7 @@ This folder introduces Rust primitive compound types: arrays, slices, tuples, an
 
 ## How it works
 
-This folder is about the simplest data structures Rust provides out of the box and how they behave with ownership and borrowing.
+Covers the simplest data structures Rust provides out of the box and how they behave with ownership and borrowing.
 
 Important ideas:
 

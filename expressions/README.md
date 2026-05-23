@@ -18,7 +18,7 @@ Key ideas:
 
 ## Learning outcomes
 
-This folder teaches:
+Teaches:
 
 - How to write expressions that compute values.
 - How operators and blocks fit into Rust's expression grammar.

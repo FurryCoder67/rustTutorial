@@ -1,6 +1,6 @@
 # Crates Folder
 
-This folder teaches the Rust crate system, with one side demonstrating how to use an existing crate and the other showing how to create a library crate.
+Teaches the Rust crate system, with one side demonstrating how to use an existing crate and the other showing how to create a library crate.
 
 ## Files
 
@@ -21,7 +21,7 @@ A crate can be made available through `Cargo.toml` and imported with `use`. The 
 
 ## Learning outcomes
 
-This folder explains:
+Explains:
 
 - The difference between a crate and a module.
 - How to create and publish a library crate structure.

@@ -1,6 +1,6 @@
 # Types Folder
 
-This folder covers Rust's type-related fundamentals, including aliasing, casting, inference, and literal types.
+Covers Rust's type-related fundamentals, including aliasing, casting, inference, and literal types.
 
 ## Files
 
@@ -15,7 +15,7 @@ This folder covers Rust's type-related fundamentals, including aliasing, casting
 
 ## How it works
 
-Rust is a statically typed language, and this folder explains how type information is both explicit and inferable. It also shows how the compiler enforces type correctness and why explicit casts are necessary when converting between incompatible primitive types.
+Rust is a statically typed language, and Explains how type information is both explicit and inferable. It also shows how the compiler enforces type correctness and why explicit casts are necessary when converting between incompatible primitive types.
 
 Important points:
 
@@ -26,7 +26,7 @@ Important points:
 
 ## Learning outcomes
 
-This folder teaches:
+Teaches:
 
 - How to use aliasing for readable APIs.
 - When and how to cast primitive values safely.

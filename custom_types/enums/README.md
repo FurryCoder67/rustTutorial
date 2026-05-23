@@ -1,6 +1,6 @@
 # Enums Folder
 
-This folder explains Rust enums and several different ways to use them.
+Explains Rust enums and several different ways to use them.
 
 ## Files
 
@@ -26,7 +26,7 @@ Important concepts:
 
 ## Learning outcomes
 
-This folder teaches:
+Teaches:
 
 - How to define both simple and complex enums.
 - How to use enums as a safer alternative to tagged unions or discriminated unions.

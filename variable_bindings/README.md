@@ -1,6 +1,6 @@
 # Variable Bindings Folder
 
-This folder explains how Rust handles variable declarations, mutability, shadowing, and scope.
+Explains how Rust handles variable declarations, mutability, shadowing, and scope.
 
 ## Files
 
@@ -17,7 +17,7 @@ This folder explains how Rust handles variable declarations, mutability, shadowi
 
 ## How it works
 
-Rust variable bindings are central to its ownership model. This folder explains how values are bound to names, how mutability is controlled, and how scope determines when values are valid.
+Rust variable bindings are central to its ownership model. Explains how values are bound to names, how mutability is controlled, and how scope determines when values are valid.
 
 Key ideas:
 

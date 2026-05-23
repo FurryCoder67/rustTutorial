@@ -1,6 +1,6 @@
 # Functions Folder
 
-This folder covers how to define and call functions and methods in Rust, as well as the basics of closures.
+Covers how to define and call functions and methods in Rust, as well as the basics of closures.
 
 ## Files
 

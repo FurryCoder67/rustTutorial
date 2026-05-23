@@ -1,6 +1,6 @@
 # Attributes Folder
 
-This folder explains Rust attributes, which are metadata annotations that alter compiler behavior, enable conditional compilation, and configure code generation.
+Explains Rust attributes, which are metadata annotations that alter compiler behavior, enable conditional compilation, and configure code generation.
 
 ## Files
 
@@ -24,7 +24,7 @@ Rust parses attributes before normal compilation, so they can shape how the comp
 
 ## Learning outcomes
 
-This folder teaches:
+Teaches:
 
 - How to use attributes to configure compiler behavior.
 - How to apply lint-related attributes such as `allow`, `warn`, and `deny`.

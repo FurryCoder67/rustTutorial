@@ -9,7 +9,7 @@ This folder demonstrates how to structure and expose a Rust library crate.
 
 ## How it works
 
-A library crate provides reusable code that other crates can depend on. This folder explains the difference between the crate root and internal modules, as well as how `pub` controls visibility.
+A library crate provides reusable code that other crates can depend on. Explains the difference between the crate root and internal modules, as well as how `pub` controls visibility.
 
 Important concepts:
 

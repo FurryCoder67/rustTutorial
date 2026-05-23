@@ -1,6 +1,6 @@
 # Closure Examples Folder
 
-This folder contains practical closure examples that show how closures are used with iterators, searching, and common collection operations.
+Contains practical closure examples that show how closures are used with iterators, searching, and common collection operations.
 
 ## Files
 

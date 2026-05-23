@@ -1,6 +1,6 @@
 # Closures Folder
 
-This folder explains Rust closures in depth: how they capture environment, how they are typed, and how they are used as arguments and return values.
+Explains Rust closures in depth: how they capture environment, how they are typed, and how they are used as arguments and return values.
 
 ## Files
 

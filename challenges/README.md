@@ -1,6 +1,6 @@
 # Challenges
 
-This folder contains Rust practice problems inspired by the Exercism Rust track.
+Contains Rust practice problems inspired by the Exercism Rust track.
 
 Problems are organized by difficulty in `easy/`, `medium/`, and `hard/`. Each problem folder includes:
 

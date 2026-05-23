@@ -1,6 +1,6 @@
 # Conversion Folder
 
-This folder covers Rust type conversion traits and idioms for converting values between different types, especially custom types and strings.
+Covers Rust type conversion traits and idioms for converting values between different types, especially custom types and strings.
 
 ## Files
 

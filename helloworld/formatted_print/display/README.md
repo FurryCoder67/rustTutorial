@@ -1,6 +1,6 @@
 # Display Folder
 
-This folder contains examples of Rust's `Display` formatting trait and how to implement custom output for user-defined types.
+Contains examples of Rust's `Display` formatting trait and how to implement custom output for user-defined types.
 
 ## Files
 

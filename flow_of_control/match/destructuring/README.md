@@ -1,6 +1,6 @@
 # Destructuring Folder
 
-This folder contains detailed examples of destructuring in Rust, the process of breaking complex values into their component parts.
+Contains detailed examples of destructuring in Rust, the process of breaking complex values into their component parts.
 
 ## Files
 

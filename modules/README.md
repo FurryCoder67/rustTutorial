@@ -1,6 +1,6 @@
 # Modules Folder
 
-This folder explains Rust's module system, hierarchical file structure, and visibility controls.
+Explains Rust's module system, hierarchical file structure, and visibility controls.
 
 ## Files
 
@@ -17,7 +17,7 @@ This folder explains Rust's module system, hierarchical file structure, and visi
 
 ## How it works
 
-Rust modules provide namespacing and encapsulation. This folder explains how to organize code into nested modules, how file paths correspond to module paths, and how visibility controls access from other modules.
+Rust modules provide namespacing and encapsulation. Explains how to organize code into nested modules, how file paths correspond to module paths, and how visibility controls access from other modules.
 
 Important concepts:
 

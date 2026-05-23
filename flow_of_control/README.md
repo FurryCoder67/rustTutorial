@@ -1,6 +1,6 @@
 # Flow of Control Folder
 
-This folder is dedicated to Rust control flow constructs: conditional execution, loops, and pattern matching. It is one of the most important chapters for understanding how Rust programs make decisions.
+Focuses on Rust control flow constructs: conditional execution, loops, and pattern matching. It is one of the most important chapters for understanding how Rust programs make decisions.
 
 ## Files
 
