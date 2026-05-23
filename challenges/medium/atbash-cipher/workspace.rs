@@ -1,7 +1,7 @@
-pub fn encode(plain: &str) -> String {
-    todo!()
-}
+// Exercise: Atbash Cipher
+    // Slug: atbash-cipher
 
-pub fn decode(cipher: &str) -> String {
-    todo!()
-}
+    pub fn solve() {
+        todo!("implement atbash-cipher")
+    }
+    

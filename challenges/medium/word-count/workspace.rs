@@ -1,5 +1,7 @@
-use std::collections::HashMap;
+// Exercise: Word Count
+    // Slug: word-count
 
-pub fn word_count(phrase: &str) -> HashMap<String, u32> {
-    todo!()
-}
+    pub fn solve() {
+        todo!("implement word-count")
+    }
+    
