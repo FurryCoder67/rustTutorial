@@ -1,7 +1,5 @@
 # macro_rules! Folder
 
-This folder corresponds to the Rust by Example `macro_rules!` chapter.
-
 ## Files
 
 - `macros.rs`

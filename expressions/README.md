@@ -1,7 +1,5 @@
 # Expressions Folder
 
-This folder corresponds to the Rust by Example Expressions chapter.
-
 ## Files
 
 - `expressions.rs`

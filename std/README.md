@@ -1,7 +1,5 @@
 # Std Library Types Folder
 
-This folder corresponds to the Rust by Example Std Library Types chapter.
-
 ## Files
 
 - `std.rs`

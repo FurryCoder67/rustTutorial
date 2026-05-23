@@ -1,7 +1,5 @@
 # Traits Folder
 
-This folder corresponds to the Rust by Example Traits chapter.
-
 ## Files
 
 - `traits.rs`

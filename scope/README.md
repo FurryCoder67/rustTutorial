@@ -1,7 +1,5 @@
 # Scoping Rules Folder
 
-This folder corresponds to the Rust by Example Scoping Rules chapter.
-
 ## Files
 
 - `scope.rs`

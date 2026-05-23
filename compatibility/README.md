@@ -1,7 +1,5 @@
 # Compatibility Folder
 
-This folder corresponds to the Rust by Example Compatibility chapter.
-
 ## Files
 
 - `compatibility.rs`

@@ -1,7 +1,5 @@
 # Error Handling Folder
 
-This folder corresponds to the Rust by Example Error Handling chapter.
-
 ## Files
 
 - `error.rs`

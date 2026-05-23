@@ -1,7 +1,5 @@
 # Testing Folder
 
-This folder corresponds to the Rust by Example Testing chapter.
-
 ## Files
 
 - `testing.rs`

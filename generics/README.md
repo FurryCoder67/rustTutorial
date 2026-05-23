@@ -1,7 +1,5 @@
 # Generics Folder
 
-This folder corresponds to the Rust by Example Generics chapter.
-
 ## Files
 
 - `generics.rs`

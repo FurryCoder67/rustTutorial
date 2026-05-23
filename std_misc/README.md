@@ -1,7 +1,5 @@
 # Std Misc Folder
 
-This folder corresponds to the Rust by Example Std Misc chapter.
-
 ## Files
 
 - `std_misc.rs`

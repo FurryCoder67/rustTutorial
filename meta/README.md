@@ -1,7 +1,5 @@
 # Meta Folder
 
-This folder corresponds to the Rust by Example Meta chapter.
-
 ## Files
 
 - `meta.rs`
