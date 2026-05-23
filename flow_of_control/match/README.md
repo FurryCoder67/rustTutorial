@@ -26,7 +26,6 @@ Important points:
 
 ## Learning outcomes
 
-## Learning outcomes
 
 - The power of pattern matching in Rust.
 - How `match` differs from `if`/`else`.

@@ -18,7 +18,6 @@ Key concepts:
 
 ## Learning outcomes
 
-## Learning outcomes
 
 - How to write and run Rust tests.
 - How to use assertions for test validation.

@@ -19,7 +19,6 @@ Important concepts:
 
 ## Learning outcomes
 
-From this folder, you should understand:
 
 - How to implement `Display` for a type.
 - What makes `Display` output appropriate for end users.

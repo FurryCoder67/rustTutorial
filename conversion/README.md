@@ -25,7 +25,6 @@ The guide in this folder shows how to implement these traits for user-defined ty
 
 ## Learning outcomes
 
-## Learning outcomes
 
 - The distinction between `From`/`Into` and `TryFrom`/`TryInto`.
 - How to implement conversion traits for custom types.

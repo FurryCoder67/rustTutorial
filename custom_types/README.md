@@ -14,7 +14,7 @@ This folder explores Rust's custom type system, covering constants, user-defined
 
 ## How it works
 
-Custom types in Rust are the foundation of expressive, type-safe programs. It shows:
+Custom types in Rust are the foundation of expressive, type-safe programs. It demonstrates:
 
 - How `struct` creates a named composite type with fields.
 - How `enum` can represent a value that is one of several variants, possibly with associated data.
@@ -24,7 +24,6 @@ Enums are powerful because they combine variant shape, pattern matching, and str
 
 ## Learning outcomes
 
-## Learning outcomes
 
 - How to define and use structs and constants.
 - How Rust enforces memory safety through value ownership in structs.

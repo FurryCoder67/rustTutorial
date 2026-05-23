@@ -34,6 +34,12 @@ for dirpath, dirnames, filenames in os.walk(root):
                 return 'It ' + verb
 
             new_text = re.sub(r'\bThis folder (shows|demonstrates|explains|contains|covers|teaches)\b', it_replace, new_text)
+            # Convert remaining 'It shows' phrasing to 'It demonstrates' for consistency
+            new_text = re.sub(r'\bIt shows\b', 'It demonstrates', new_text)
+            # Normalize alternate learning outcome phrasings to single heading
+            new_text = re.sub(r'(?m)^(After studying this folder, you should understand:|After reading this folder, you should understand:|From this folder you will understand:|From this folder, you should learn:|From this folder, you should understand:|From this folder you will understand:)', '## Learning outcomes', new_text)
+            # Remove duplicate '## Learning outcomes' occurrences
+            new_text = re.sub(r'(## Learning outcomes\n\n)(## Learning outcomes\n)', r'\1', new_text)
             if new_text != text:
                 with open(path, 'w', encoding='utf-8') as f:
                     f.write(new_text)

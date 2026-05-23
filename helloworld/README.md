@@ -13,7 +13,7 @@ Contains the very first Rust examples: comments, printing, formatting, and debug
 
 ## How it works
 
-Introduces Rust syntax. It shows how macros like `println!` and `format!` are built into Rust for output formatting, and how Rust uses braces and format traits to control how values are printed.
+Introduces Rust syntax. It demonstrates how macros like `println!` and `format!` are built into Rust for output formatting, and how Rust uses braces and format traits to control how values are printed.
 
 Key ideas:
 
@@ -23,7 +23,6 @@ Key ideas:
 
 ## Learning outcomes
 
-After studying this folder, you should understand:
 
 - The structure of a minimal Rust program.
 - How to write comments and why they matter.

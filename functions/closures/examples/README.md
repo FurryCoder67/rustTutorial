@@ -21,7 +21,6 @@ Key ideas:
 
 ## Learning outcomes
 
-## Learning outcomes
 
 - How to use closures as inline callbacks.
 - How iterator methods improve code readability.

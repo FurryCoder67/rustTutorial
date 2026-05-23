@@ -18,7 +18,6 @@ Important concepts:
 
 ## Learning outcomes
 
-## Learning outcomes
 
 - When and how to use `unsafe` code.
 - What raw pointers are and how they behave.

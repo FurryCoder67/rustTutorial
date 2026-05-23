@@ -17,7 +17,6 @@ Key points:
 
 ## Learning outcomes
 
-## Learning outcomes
 
 - How to use miscellaneous standard library helpers.
 - How to combine library utilities with language features.

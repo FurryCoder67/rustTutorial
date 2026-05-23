@@ -18,7 +18,6 @@ Key ideas:
 
 ## Learning outcomes
 
-## Learning outcomes
 
 - How to write simple `macro_rules!` macros.
 - How macros match input patterns and expand into Rust code.

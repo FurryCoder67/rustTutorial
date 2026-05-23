@@ -1,6 +1,6 @@
 # CFG Folder
 
-It shows how Rust uses `cfg` attributes for conditional compilation based on target configuration, features, and other compile-time settings.
+It demonstrates how Rust uses `cfg` attributes for conditional compilation based on target configuration, features, and other compile-time settings.
 
 ## Files
 
@@ -21,7 +21,6 @@ Key points:
 
 ## Learning outcomes
 
-From this folder, you should understand:
 
 - How `cfg` attributes control what code is compiled.
 - How to write platform- or feature-specific Rust code safely.

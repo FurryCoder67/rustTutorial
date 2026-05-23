@@ -25,7 +25,6 @@ Each Rust source file here is a compact guide to the different phases of that wo
 
 ## Learning outcomes
 
-## Learning outcomes
 
 - How to keep Cargo project conventions clean and idiomatic.
 - How to manage and reason about dependency graphs.

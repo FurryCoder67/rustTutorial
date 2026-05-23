@@ -29,7 +29,6 @@ Important details:
 
 ## Learning outcomes
 
-## Learning outcomes
 
 - The difference between `Fn`, `FnMut`, and `FnOnce`.
 - How closures capture and use environment variables.

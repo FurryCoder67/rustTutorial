@@ -18,7 +18,6 @@ Important concepts:
 
 ## Learning outcomes
 
-## Learning outcomes
 
 - How to use common standard library types.
 - When to choose heap-allocated versus stack-allocated collections.

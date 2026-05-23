@@ -24,7 +24,6 @@ Important ideas:
 
 ## Learning outcomes
 
-## Learning outcomes
 
 - The difference between owned arrays and borrowed slices.
 - How tuples provide lightweight grouping of values.

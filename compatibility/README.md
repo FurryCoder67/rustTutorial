@@ -18,7 +18,6 @@ Key ideas:
 
 ## Learning outcomes
 
-## Learning outcomes
 
 - How to write code that is compatible across Rust versions.
 - Why stability matters for library authors.

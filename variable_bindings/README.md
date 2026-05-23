@@ -28,7 +28,6 @@ Key ideas:
 
 ## Learning outcomes
 
-From this folder, you should understand:
 
 - The default immutability philosophy of Rust.
 - How to declare variables, including deferred initialization.

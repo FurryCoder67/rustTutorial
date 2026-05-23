@@ -5,7 +5,7 @@ It demonstrates how to structure and expose a Rust library crate.
 ## Files
 
 - `rary.rs`
-  - Contains the library implementation. It shows how to define public and private items, expose modules, and structure a crate's API.
+  - Contains the library implementation. It demonstrates how to define public and private items, expose modules, and structure a crate's API.
 
 ## How it works
 
@@ -20,7 +20,6 @@ Important concepts:
 
 ## Learning outcomes
 
-From this folder you will understand:
 
 - How to organize a library crate in Rust.
 - How to make types and functions public while keeping internals hidden.

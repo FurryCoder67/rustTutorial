@@ -18,7 +18,6 @@ Key concepts:
 
 ## Learning outcomes
 
-## Learning outcomes
 
 - How to use `Result` and `Option` for error handling.
 - How to propagate errors with `?`.

@@ -18,7 +18,6 @@ Important concepts:
 
 ## Learning outcomes
 
-## Learning outcomes
 
 - How to define and implement traits.
 - How to use trait bounds in generic code.
