@@ -1,7 +1,5 @@
-// Exercise: Pascals Triangle
-    // Slug: pascals-triangle
+// TODO: Implement your solution
 
-    pub fn solve() {
-        todo!("implement pascals-triangle")
-    }
-    
+pub fn generate(row_count: u32) -> Vec<Vec<u32>> { {
+    todo!()
+}

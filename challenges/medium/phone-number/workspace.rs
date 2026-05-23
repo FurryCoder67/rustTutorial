@@ -1,7 +1,5 @@
-// Exercise: Phone Number
-    // Slug: phone-number
+// TODO: Implement your solution
 
-    pub fn solve() {
-        todo!("implement phone-number")
-    }
-    
+pub fn number(s: &str) -> Option<String> { {
+    todo!()
+}

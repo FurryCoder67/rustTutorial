@@ -1,7 +1,5 @@
-use std::time::{Duration, SystemTime};
+use std::time::Duration;
 
-pub fn add_gigasecond(start: SystemTime) -> SystemTime {
-    start
-        .checked_add(Duration::from_secs(1_000_000_000))
-        .expect("gigasecond addition overflowed")
+pub fn after(start: Duration) -> Duration {
+    start + Duration::from_secs(1_000_000_000)
 }

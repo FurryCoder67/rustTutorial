@@ -1,7 +1,5 @@
-// Exercise: Sieve
-    // Slug: sieve
+// TODO: Implement your solution
 
-    pub fn solve() {
-        todo!("implement sieve")
-    }
-    
+pub fn primes(limit: u32) -> Vec<u32> { {
+    todo!()
+}

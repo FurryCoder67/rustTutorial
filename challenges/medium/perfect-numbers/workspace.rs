@@ -1,7 +1,5 @@
-// Exercise: Perfect Numbers
-    // Slug: perfect-numbers
+// TODO: Implement your solution
 
-    pub fn solve() {
-        todo!("implement perfect-numbers")
-    }
-    
+pub fn classify(num: u64) -> Result<String, String> { {
+    todo!()
+}

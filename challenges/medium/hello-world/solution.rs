@@ -1,4 +1,3 @@
-// Solution placeholder for Hello World
-
-// Implemented solution should go here.
-
+pub fn hello() -> &'static str {
+    "Hello, World!"
+}

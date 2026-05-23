@@ -1,5 +1,7 @@
-use std::time::{Duration, SystemTime};
+// TODO: Implement your solution
 
-pub fn add_gigasecond(start: SystemTime) -> SystemTime {
+use std::time::Duration;
+
+pub fn after(start: Duration) -> Duration { {
     todo!()
 }

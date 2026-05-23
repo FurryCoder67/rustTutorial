@@ -1,7 +1,5 @@
-// Exercise: Wordy
-    // Slug: wordy
+// TODO: Implement your solution
 
-    pub fn solve() {
-        todo!("implement wordy")
-    }
-    
+pub fn answer(problem: &str) -> Result<i64, String> { {
+    todo!()
+}

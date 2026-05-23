@@ -1,7 +1,5 @@
-// Exercise: Leap
-    // Slug: leap
+// TODO: Implement your solution
 
-    pub fn solve() {
-        todo!("implement leap")
-    }
-    
+pub fn is_leap_year(year: u64) -> bool { {
+    todo!()
+}

@@ -1,7 +1,7 @@
-// Exercise: Tournament
-    // Slug: tournament
+// TODO: Implement your solution
 
-    pub fn solve() {
-        todo!("implement tournament")
-    }
-    
+use std::collections::HashMap;
+
+pub fn tally(match_results: &str) -> String { {
+    todo!()
+}

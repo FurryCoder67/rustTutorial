@@ -1,7 +1,6 @@
-// Exercise: Forth
-    // Slug: forth
+// TODO: Implement your solution
 
-    pub fn solve() {
-        todo!("implement forth")
-    }
-    
+// A simple Forth interpreter
+pub fn eval(input: &str) -> Result<Vec<i32>, String> { {
+    todo!()
+}

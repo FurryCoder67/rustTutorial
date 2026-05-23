@@ -1,7 +1,5 @@
-// Exercise: Bob
-    // Slug: bob
+// TODO: Implement your solution
 
-    pub fn solve() {
-        todo!("implement bob")
-    }
-    
+pub fn reply(s: &str) -> String { {
+    todo!()
+}

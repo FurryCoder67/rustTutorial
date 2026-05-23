@@ -1,7 +1,20 @@
-// Exercise: Yacht
-    // Slug: yacht
+// TODO: Implement your solution
 
-    pub fn solve() {
-        todo!("implement yacht")
+pub enum Category {
+        Ones,
+        Twos,
+        Threes,
+        Fours,
+        Fives,
+        Sixes,
+        FullHouse,
+        FourOfAKind,
+        LittleStraight,
+        BigStraight,
+        Choice,
+        Yacht,
     }
-    
+
+pub fn score(dice: &[u8], category: &Category) -> u8 { {
+    todo!()
+}

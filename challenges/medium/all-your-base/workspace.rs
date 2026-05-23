@@ -1,7 +1,5 @@
-// Exercise: All Your Base
-    // Slug: all-your-base
+// TODO: Implement your solution
 
-    pub fn solve() {
-        todo!("implement all-your-base")
-    }
-    
+pub fn convert(num: &[u32], from_base: u32, to_base: u32) -> Result<Vec<u32>, String> { {
+    todo!()
+}

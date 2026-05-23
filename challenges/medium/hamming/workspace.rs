@@ -1,7 +1,5 @@
-// Exercise: Hamming
-    // Slug: hamming
+// TODO: Implement your solution
 
-    pub fn solve() {
-        todo!("implement hamming")
-    }
-    
+pub fn compute(s1: &str, s2: &str) -> Option<usize> { {
+    todo!()
+}

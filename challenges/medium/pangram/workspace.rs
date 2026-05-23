@@ -1,7 +1,5 @@
-// Exercise: Pangram
-    // Slug: pangram
+// TODO: Implement your solution
 
-    pub fn solve() {
-        todo!("implement pangram")
-    }
-    
+pub fn is_pangram(sentence: &str) -> bool { {
+    todo!()
+}

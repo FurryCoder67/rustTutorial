@@ -1,7 +1,5 @@
-// Exercise: Nth Prime
-    // Slug: nth-prime
+// TODO: Implement your solution
 
-    pub fn solve() {
-        todo!("implement nth-prime")
-    }
-    
+pub fn nth(n: u32) -> Result<u32, String> { {
+    todo!()
+}

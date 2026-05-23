@@ -1,7 +1,5 @@
-// Exercise: Isogram
-    // Slug: isogram
+// TODO: Implement your solution
 
-    pub fn solve() {
-        todo!("implement isogram")
-    }
-    
+pub fn check(phrase: &str) -> bool { {
+    todo!()
+}

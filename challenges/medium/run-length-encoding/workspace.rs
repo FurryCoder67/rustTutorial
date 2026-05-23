@@ -1,7 +1,5 @@
-// Exercise: Run Length Encoding
-    // Slug: run-length-encoding
+// TODO: Implement your solution
 
-    pub fn solve() {
-        todo!("implement run-length-encoding")
-    }
-    
+pub fn encode(source: &str) -> String { {
+    todo!()
+}

@@ -1,7 +1,5 @@
-// Exercise: Acronym
-    // Slug: acronym
+// TODO: Implement your solution
 
-    pub fn solve() {
-        todo!("implement acronym")
-    }
-    
+pub fn abbreviate(phrase: &str) -> String { {
+    todo!()
+}

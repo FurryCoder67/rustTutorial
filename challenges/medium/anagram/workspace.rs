@@ -1,7 +1,7 @@
-// Exercise: Anagram
-    // Slug: anagram
+// TODO: Implement your solution
 
-    pub fn solve() {
-        todo!("implement anagram")
-    }
-    
+use std::collections::HashSet;
+
+pub fn anagrams_for<'a>(word: &str, candidates: &[&'a str]) -> HashSet<&'a str> { {
+    todo!()
+}

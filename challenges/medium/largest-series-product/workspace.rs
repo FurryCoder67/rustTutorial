@@ -1,7 +1,5 @@
-// Exercise: Largest Series Product
-    // Slug: largest-series-product
+// TODO: Implement your solution
 
-    pub fn solve() {
-        todo!("implement largest-series-product")
-    }
-    
+pub fn largest_product(s: &str, span: usize) -> Result<u64, String> { {
+    todo!()
+}

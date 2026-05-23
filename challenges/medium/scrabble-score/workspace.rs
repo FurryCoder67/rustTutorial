@@ -1,7 +1,5 @@
-// Exercise: Scrabble Score
-    // Slug: scrabble-score
+// TODO: Implement your solution
 
-    pub fn solve() {
-        todo!("implement scrabble-score")
-    }
-    
+pub fn score(word: &str) -> u16 { {
+    todo!()
+}

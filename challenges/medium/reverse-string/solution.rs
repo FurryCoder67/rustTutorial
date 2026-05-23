@@ -1,4 +1,3 @@
-// Solution placeholder for Reverse String
-
-// Implemented solution should go here.
-
+pub fn reverse(input: &str) -> String {
+    input.chars().rev().collect()
+}

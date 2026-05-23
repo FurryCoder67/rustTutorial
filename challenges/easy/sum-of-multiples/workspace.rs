@@ -1,3 +1,5 @@
-pub fn sum(limit: u32, factors: &[u32]) -> u32 {
+// TODO: Implement your solution
+
+pub fn sum_of_multiples(limit: u32, factors: &[u32]) -> u32 { {
     todo!()
 }

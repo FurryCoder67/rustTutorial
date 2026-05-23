@@ -1,7 +1,5 @@
-// Exercise: Reverse String
-    // Slug: reverse-string
+// TODO: Implement your solution
 
-    pub fn solve() {
-        todo!("implement reverse-string")
-    }
-    
+pub fn reverse(input: &str) -> String { {
+    todo!()
+}

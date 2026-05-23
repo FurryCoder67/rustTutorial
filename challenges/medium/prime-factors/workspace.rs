@@ -1,7 +1,5 @@
-// Exercise: Prime Factors
-    // Slug: prime-factors
+// TODO: Implement your solution
 
-    pub fn solve() {
-        todo!("implement prime-factors")
-    }
-    
+pub fn factors(mut n: u64) -> Vec<u64> { {
+    todo!()
+}

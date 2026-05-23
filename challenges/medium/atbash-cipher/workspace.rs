@@ -1,7 +1,5 @@
-// Exercise: Atbash Cipher
-    // Slug: atbash-cipher
+// TODO: Implement your solution
 
-    pub fn solve() {
-        todo!("implement atbash-cipher")
-    }
-    
+pub fn encode(plaintext: &str) -> String { {
+    todo!()
+}

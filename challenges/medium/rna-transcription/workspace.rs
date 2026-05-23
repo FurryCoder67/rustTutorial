@@ -1,7 +1,5 @@
-// Exercise: Rna Transcription
-    // Slug: rna-transcription
+// TODO: Implement your solution
 
-    pub fn solve() {
-        todo!("implement rna-transcription")
-    }
-    
+pub fn to_rna(dna: &str) -> Result<String, String> { {
+    todo!()
+}

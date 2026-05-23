@@ -1,7 +1,5 @@
-// Exercise: Collatz Conjecture
-    // Slug: collatz-conjecture
+// TODO: Implement your solution
 
-    pub fn solve() {
-        todo!("implement collatz-conjecture")
-    }
-    
+pub fn collatz(mut n: u64) -> Result<u64, String> { {
+    todo!()
+}

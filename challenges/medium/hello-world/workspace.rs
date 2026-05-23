@@ -1,7 +1,5 @@
-// Exercise: Hello World
-    // Slug: hello-world
+// TODO: Implement your solution
 
-    pub fn solve() {
-        todo!("implement hello-world")
-    }
-    
+pub fn hello() -> &'static str {
+    todo!()
+}

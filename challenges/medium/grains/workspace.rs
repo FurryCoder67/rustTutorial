@@ -1,7 +1,5 @@
-// Exercise: Grains
-    // Slug: grains
+// TODO: Implement your solution
 
-    pub fn solve() {
-        todo!("implement grains")
-    }
-    
+pub fn square(s: u32) -> Result<u64, String> { {
+    todo!()
+}

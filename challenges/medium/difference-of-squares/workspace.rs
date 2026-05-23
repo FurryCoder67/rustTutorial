@@ -1,7 +1,5 @@
-// Exercise: Difference Of Squares
-    // Slug: difference-of-squares
+// TODO: Implement your solution
 
-    pub fn solve() {
-        todo!("implement difference-of-squares")
-    }
-    
+pub fn square_of_sum(n: u32) -> u32 { {
+    todo!()
+}

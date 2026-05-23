@@ -1,7 +1,5 @@
-// Exercise: Series
-    // Slug: series
+// TODO: Implement your solution
 
-    pub fn solve() {
-        todo!("implement series")
-    }
-    
+pub fn digits(s: &str) -> Vec<u32> { {
+    todo!()
+}

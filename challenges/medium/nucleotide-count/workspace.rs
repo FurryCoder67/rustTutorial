@@ -1,7 +1,7 @@
-// Exercise: Nucleotide Count
-    // Slug: nucleotide-count
+// TODO: Implement your solution
 
-    pub fn solve() {
-        todo!("implement nucleotide-count")
-    }
-    
+use std::collections::HashMap;
+
+pub fn count(nucleotide: char, dna: &str) -> Result<usize, String> { {
+    todo!()
+}
