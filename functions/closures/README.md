@@ -29,7 +29,7 @@ Important details:
 
 ## Learning outcomes
 
-After reading this folder, you should understand:
+## Learning outcomes
 
 - The difference between `Fn`, `FnMut`, and `FnOnce`.
 - How closures capture and use environment variables.

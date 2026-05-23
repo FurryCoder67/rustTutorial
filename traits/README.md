@@ -18,7 +18,7 @@ Important concepts:
 
 ## Learning outcomes
 
-From this folder, you should learn:
+## Learning outcomes
 
 - How to define and implement traits.
 - How to use trait bounds in generic code.

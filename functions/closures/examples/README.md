@@ -21,7 +21,7 @@ Key ideas:
 
 ## Learning outcomes
 
-From this folder, you should learn:
+## Learning outcomes
 
 - How to use closures as inline callbacks.
 - How iterator methods improve code readability.

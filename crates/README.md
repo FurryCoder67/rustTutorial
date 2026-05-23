@@ -8,7 +8,7 @@ Teaches the Rust crate system, with one side demonstrating how to use an existin
   - Shows how to depend on an external crate or a local library crate, how to add the dependency to `Cargo.toml`, and how to import items with `use`.
   - Demonstrates the separation between crate root and public API surface.
 - `creating_a_library/`
-  - Contains an example library crate implementation. This folder demonstrates how to design a crate's public API using `pub`, how to keep implementation details private, and how to structure module exports.
+  - Contains an example library crate implementation. It demonstrates how to design a crate's public API using `pub`, how to keep implementation details private, and how to structure module exports.
 
 ## How it works
 

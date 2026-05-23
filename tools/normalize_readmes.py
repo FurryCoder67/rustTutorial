@@ -26,6 +26,14 @@ for dirpath, dirnames, filenames in os.walk(root):
             with open(path, 'r', encoding='utf-8') as f:
                 text = f.read()
             new_text = pattern.sub(lambda m: replacements[m.group(1).lower()], text)
+            # Normalize lead-in learning outcome headings to a consistent '## Learning outcomes'
+            new_text = re.sub(r'(?m)^(From this folder, you should learn:|After reading this folder, you should understand:|After studying this folder, you will know:|In this folder you learn:|By reading this folder, you should understand:|In this folder, you will learn:|In this folder you will learn:)', '## Learning outcomes', new_text)
+            # Replace 'This folder shows/demonstrates/explains/contains/covers' with 'It shows/...'
+            def it_replace(m):
+                verb = m.group(1)
+                return 'It ' + verb
+
+            new_text = re.sub(r'\bThis folder (shows|demonstrates|explains|contains|covers|teaches)\b', it_replace, new_text)
             if new_text != text:
                 with open(path, 'w', encoding='utf-8') as f:
                     f.write(new_text)

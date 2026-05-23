@@ -18,7 +18,7 @@ Key concepts:
 
 ## Learning outcomes
 
-From this folder, you should learn:
+## Learning outcomes
 
 - How to use `Result` and `Option` for error handling.
 - How to propagate errors with `?`.

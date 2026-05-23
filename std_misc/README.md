@@ -17,7 +17,7 @@ Key points:
 
 ## Learning outcomes
 
-From this folder, you should learn:
+## Learning outcomes
 
 - How to use miscellaneous standard library helpers.
 - How to combine library utilities with language features.

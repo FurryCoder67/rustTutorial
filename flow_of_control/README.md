@@ -23,7 +23,7 @@ Focuses on Rust control flow constructs: conditional execution, loops, and patte
 
 ## How it works
 
-Rust control flow is unified around the idea of expressions that produce values and patterns that match data. This folder shows both the simplest style of branching and the more powerful `match` expression.
+Rust control flow is unified around the idea of expressions that produce values and patterns that match data. It shows both the simplest style of branching and the more powerful `match` expression.
 
 Key points:
 
@@ -34,7 +34,7 @@ Key points:
 
 ## Learning outcomes
 
-By reading this folder, you should understand:
+## Learning outcomes
 
 - The difference between `if`, `match`, and loop constructs.
 - How to apply pattern matching to control flow.

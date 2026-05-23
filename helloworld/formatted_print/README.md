@@ -26,7 +26,7 @@ Important concepts:
 
 ## Learning outcomes
 
-After studying this folder, you will know:
+## Learning outcomes
 
 - How to use Rust's formatting macros.
 - How to control formatted output with specifiers.

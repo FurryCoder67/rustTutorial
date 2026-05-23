@@ -18,7 +18,7 @@ Key ideas:
 
 ## Learning outcomes
 
-From this folder, you should learn:
+## Learning outcomes
 
 - How to write code that is compatible across Rust versions.
 - Why stability matters for library authors.

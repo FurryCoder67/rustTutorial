@@ -18,7 +18,7 @@ Key ideas:
 
 ## Learning outcomes
 
-From this folder, you should learn:
+## Learning outcomes
 
 - How to write simple `macro_rules!` macros.
 - How macros match input patterns and expand into Rust code.

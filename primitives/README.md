@@ -24,7 +24,7 @@ Important ideas:
 
 ## Learning outcomes
 
-After reading this folder, you should understand:
+## Learning outcomes
 
 - The difference between owned arrays and borrowed slices.
 - How tuples provide lightweight grouping of values.

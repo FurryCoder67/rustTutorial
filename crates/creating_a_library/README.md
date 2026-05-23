@@ -1,6 +1,6 @@
 # Creating a Library Folder
 
-This folder demonstrates how to structure and expose a Rust library crate.
+It demonstrates how to structure and expose a Rust library crate.
 
 ## Files
 

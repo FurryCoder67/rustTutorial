@@ -26,7 +26,7 @@ Important points:
 
 ## Learning outcomes
 
-After reading this folder, you should understand:
+## Learning outcomes
 
 - The power of pattern matching in Rust.
 - How `match` differs from `if`/`else`.

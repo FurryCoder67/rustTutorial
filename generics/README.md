@@ -18,7 +18,7 @@ Important concepts:
 
 ## Learning outcomes
 
-From this folder, you should learn:
+## Learning outcomes
 
 - How to define generic functions and types.
 - How to use trait bounds to restrict generic parameters.

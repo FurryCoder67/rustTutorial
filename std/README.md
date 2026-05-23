@@ -18,7 +18,7 @@ Important concepts:
 
 ## Learning outcomes
 
-From this folder, you should learn:
+## Learning outcomes
 
 - How to use common standard library types.
 - When to choose heap-allocated versus stack-allocated collections.

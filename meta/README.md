@@ -18,7 +18,7 @@ Key points:
 
 ## Learning outcomes
 
-From this folder, you should learn:
+## Learning outcomes
 
 - Where to look for Rust documentation and examples.
 - How to structure Rust projects for readability.
