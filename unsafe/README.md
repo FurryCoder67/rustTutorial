@@ -1,7 +1,5 @@
 # Unsafe Operations Folder
 
-This folder corresponds to the Rust by Example Unsafe Operations chapter.
-
 ## Files
 
 - `unsafe.rs`
